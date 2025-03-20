@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="imageButtonTint">#FFFFFF</color>
+    <color name="textColor" tools:ignore="MissingDefaultResource">#FFFFFF</color>
+    <color name="sign_up">#FFFFFF</color>
+    <color name="sign_up_page">#2C5364</color>
+</resources>

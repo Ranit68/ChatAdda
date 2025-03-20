@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple">#5b4cbd</color>
+    <color name="lightGray">#F4F3F8</color>
+    <color name="grey">#d2d2d2</color>
+    <color name="darkgrey">#616161</color>
+    <color name="orange">#DC6F31</color>
+    <color name="red">#B00020</color>
+    <color name="light_blue">#E0F7FA</color>
+    <!--    Light Mode Color-->
+    <color name="royal_blue">#1E88E5</color>
+    <color name="deep_navy_blue">#1565C0</color>
+    <color name="soft_white_gray">#F9FAFC</color>
+    <color name="deep_black">#1C1C1C</color>
+    <color name="deep_dark_gray">#121212</color>
+    <color name="deep_green">#2E7D32</color>
+    <color name="professional_red">#D32F2F</color>
+
+    <color name="teal">#03DAC6</color>
+    <color name="medium_gray">#757575</color>
+    <color name="Soft_gray">#F5F5F5</color>
+    <color name="dark_gray">#212121</color>
+    <color name="Deep_purple">#6200EE</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="sign_up">#6200EE</color>
+    <color name="sign_up_page">#E0F7FA</color>
+
+<!--    Dark Mode Color-->
+    <color name="pure_black">#121212</color>
+    <color name="light_gray">#E0E0E0</color>
+
+    <color name="imageButtonTint">#121212</color>
+    <color name="textColor">#121212</color>
+
+
+</resources>
