@@ -41,9 +41,9 @@ public class CallActivity extends AppCompatActivity {
             Manifest.permission.RECORD_AUDIO
     };
 
-    private static final String APP_ID = "a3405ba1467d4edcbd75361ddc037c15";
+    private static final String APP_ID = "ENTER_YOU_APP_ID";
     private static final String CHANNEL_NAME = "callingPerson";
-    private static final String TOKEN = "007eJxTYFjDMzONZwVn4Lu7n5j6HU69Xsy2/9K5nO57N/t52GWDq6coMCQamxiYJiUampiZp5ikpiQnpZibGpsZpqQkGxibJxuahry/nd4QyMjwo28aKyMDBIL4vAzJiTk5mXnpAalFxfl5DAwAyrgkrA==";
+    private static final String TOKEN = "ENTER_YOUR_TOKEN";
 
     private RtcEngine agoraEngine;
     private ImageView switchCameraButton;
