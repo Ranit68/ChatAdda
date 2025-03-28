@@ -38,8 +38,6 @@
 Contributions are welcome! Fork, create a pull request, and help improve ChatAdda.
 
 📬 Contact
-📧 Email: sayandas@example.com
-🌐 Portfolio: sayandas.dev
-🔗 LinkedIn: linkedin.com/in/sayan-das
+📧 Email: sayondas2004s@example.com
 
 ⭐ If you found this project helpful, give it a star! ⭐
